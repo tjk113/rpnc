@@ -1,0 +1,7 @@
+qbe-1.2
+*.exe
+*.o
+*.obj
+*.pdb
+*.ssa
+*.s
